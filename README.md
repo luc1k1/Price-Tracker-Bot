@@ -1,4 +1,6 @@
-![Price Tracker](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM8fp8jK6Au6Xct9eCTnX-sLs3HB8jgZzKu3piv84kqdc_Ej7rF7ZWovKNXG1wCZ8eGq4&usqp=CAU)
+![Python](https://img.shields.io/badge/Python-3-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # Price Tracker Bot
 This Python script tracks product prices from Amazon and sends notifications via Telegram when the price drops.
 
